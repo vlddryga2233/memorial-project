@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb://127.0.0.1:27017/memorial-project",
+  "jwtSecret": "memorial_project_secret_key",
+  "jwtExpiration": "24h"
+} 
